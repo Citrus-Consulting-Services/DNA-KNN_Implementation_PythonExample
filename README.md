@@ -7,4 +7,6 @@ Implementation of K Nearest Neighbors (KNN) with an open source dataset using Py
 3.) Get the K nearest neighbours
 4.) choose the maximum labels out of k nearest neighbours
 
+
 ## Implemneting KNN using sklearn
+Import the KNN package from sklearn and created the model using the inbuilt function
